@@ -1,0 +1,64 @@
+*{
+	box-sizing: border-box;
+}
+
+.caja {
+	position: relative;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	height: 80px;
+}
+
+span {
+	font-family: Gill Sans, Candara, sans-serif;
+}
+
+.currently {
+	position: absolute;
+	color: #3A3A3A;
+	font-size: 18px;
+	margin-top: 28px;
+	margin-left: 560px;
+}
+
+.summer {
+	position: absolute;
+	color: #939393;
+	font-size: 15px;
+	margin-top: 31px;
+	margin-left: 680px;
+}
+
+.menu {
+	margin-top: 15px;
+	font-family: Gill Sans, Candara, sans-serif;
+	display: inline-block;
+}
+
+#boton {
+	padding: 0;
+	margin-left: 0;
+}
+
+#boton li{
+	display: inline-block;
+	margin-left: 0;
+	padding-right: 20px;
+}
+
+.seccion {
+	background-color: rgb(205,92,92);
+	color: white;
+	padding: 15px 40px;
+}
+
+.busca{
+	border: none;
+	border-bottom: 1px solid #B7B7B7;
+	color: #B7B7B7;
+	padding: 10px;
+	margin-left: 40px;
+	padding-right: 260px;
+	font-size: 14px;
+} 
+

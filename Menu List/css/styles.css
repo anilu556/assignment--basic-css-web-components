@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+}
+
+.container {
+	position:relative;
+	border: 2px solid #D3D3D3;
+	height: 360px;
+	width: 300px;
+	margin-top: 80px;
+	margin-left: 40px;
+	font-family: Avenir, 'Gill Sans', sans-serif;
+
+}
+
+.home {
+	border-bottom: 2px solid #D3D3D3;
+	height: 60px;
+}
+
+.verde {
+	color: #66CC99;
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 10px;
+}
+
+.about {
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 10px;
+}
+
+.customers {
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 10px;
+}
+
+.current {
+	height: 60px;
+}
